@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## Contacts
 <div align=center>
-[![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://winterbloooom.github.io/)](https://winterbloooom.github.io/)
+
+[![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://winterbloooom.github.io/)](https://winterbloooom.github.io/)
 
 [![Instagram Badge](http://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/winterbloooom/)](https://www.instagram.com/winterbloooom/)
 
