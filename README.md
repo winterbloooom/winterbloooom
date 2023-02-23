@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://winterbloooom.github.io/)](https://winterbloooom.github.io/)
 
-[![Instagram Badge](http://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/winterbloooom/)](https://www.instagram.com/winterbloooom/)
+[![Instagram Badge](http://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&link=https://www.instagram.com/winterbloooom/)](https://www.instagram.com/winterbloooom/)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winterbloooom@gmail.com)](mailto:winterbloooom@gmail.com)
 
