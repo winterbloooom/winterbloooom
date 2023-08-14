@@ -9,6 +9,7 @@
 <h3>Research Interests</h3>
 📸 Computer Vision<br>
 💡 Deep Learning, Machine Learning<br>
+🏃 Human Pose Estimation, Reconstruction<br>
 🚗 Autonomous Driving & Shipping<br>
 
 <h3>Study</h3>
